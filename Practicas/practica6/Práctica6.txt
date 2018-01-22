@@ -1,0 +1,6 @@
+Práctica número seis.
+	Emiliano Galeana Araujo 		314132324
+
+Preguntas libro: 
+
+Actividad 3.1. Mi hipótesis podría ser que como vamos mejorando cada vez más la práctica, entonces esta va creciendo y pues hay que tratar de economizar por así decirlo para que sea más eficiente el código. Para eso sirve esta nueva estructura. Como estamos viendo herencia, esto facilita las cosas para algunas clases que hereden métodos de otras, y sea más sencillo y práctico.

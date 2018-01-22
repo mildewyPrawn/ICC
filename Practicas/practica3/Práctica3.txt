@@ -1,0 +1,15 @@
+Práctica número dos.
+	Emiliano Galeana Araujo 		314132324
+
+Preguntas libro: 
+
+1) Creo que si, sería el número entero, el punto, y muchos ceros a la derecha 
+
+2) No entendí muy bien este ejercicio, pensaba que a=3; b= 3 y c=2. El programa solo me regresa un valor que es 3.
+
+COMENTARIOS:
+
+Ofrezco una disculpa por tardar tanto en enviar la práctica, sé que era para la semana pasada y las excusas no valen, 
+pero no tenía en dónde trabajar y el jueves entre Rosa y yo tratamos de instalar Java en mi computadora y no pudimos. 
+Ya el viernes un compañero me ayudó a instalarlo y pude hacer la práctica, espero su comprensión para hacer válida mi 
+práctica y si no fuera así me gustaría que me lo hicieran saber. Gracias por leer este mensaje. 
